@@ -1,0 +1,69 @@
+{
+  "todos": {
+    "Coordinator": {
+      "1": {
+        "id": "1",
+        "content": "Design and set up the React project structure with routing",
+        "details": "- Initialize React project with Vite\n- Set up React Router for multi-page navigation\n- Configure Tailwind CSS for styling\n- Set up Context API for state management\n- Create basic project folder structure",
+        "status": "completed",
+        "priority": "high"
+      },
+      "2": {
+        "id": "2",
+        "content": "Create product data structure and sneaker catalog",
+        "details": "- Define product schema (id, name, brand, price, images, description, sizes, etc.)\n- Create mock data for branded sneakers (Nike, Adidas, Jordan, etc.)\n- Implement product data management",
+        "status": "completed",
+        "priority": "high"
+      },
+      "3": {
+        "id": "3",
+        "content": "Build Home/Products page with product listing",
+        "details": "- Create product cards with image, name, price\n- Implement 'Add to Cart' functionality\n- Add filtering/search capabilities\n- Ensure responsive grid layout\n- Include hero section and featured products",
+        "status": "completed",
+        "priority": "high"
+      },
+      "4": {
+        "id": "4",
+        "content": "Develop Product Details page",
+        "details": "- Display product images (gallery/carousel)\n- Show detailed product information\n- Size selection functionality\n- Quantity selector\n- 'Add to Cart' with size/quantity options\n- Related products section",
+        "status": "completed",
+        "priority": "medium"
+      },
+      "5": {
+        "id": "5",
+        "content": "Implement Shopping Cart functionality",
+        "details": "- Cart page with list of added products\n- Quantity adjustment controls\n- Remove items functionality\n- Real-time total calculation\n- LocalStorage persistence\n- Cart icon with item count in header",
+        "status": "completed",
+        "priority": "high"
+      },
+      "6": {
+        "id": "6",
+        "content": "Create Checkout page and process",
+        "details": "- Order summary display\n- Customer information form (name, email, address)\n- Form validation\n- 'Place Order' functionality (fictitious as requested)\n- Order confirmation\n- Clear cart after order",
+        "status": "completed",
+        "priority": "medium"
+      },
+      "7": {
+        "id": "7",
+        "content": "Build Footer and navigation components",
+        "details": "- Contact information\n- Social media links\n- Links to important pages\n- Responsive header with cart icon\n- Mobile navigation menu",
+        "status": "completed",
+        "priority": "low"
+      },
+      "8": {
+        "id": "8",
+        "content": "Implement responsive design and final testing",
+        "details": "- Ensure mobile-first responsive design\n- Test cart persistence across browser sessions\n- Cross-browser compatibility testing\n- Performance optimization\n- Final UI/UX polish",
+        "status": "completed",
+        "priority": "medium"
+      },
+      "9": {
+        "id": "9",
+        "content": "Deploy the website",
+        "details": "- Build production version\n- Deploy to web hosting platform\n- Provide live website URL\n- Test deployed version functionality",
+        "status": "completed",
+        "priority": "medium"
+      }
+    }
+  }
+}
